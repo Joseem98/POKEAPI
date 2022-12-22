@@ -1,0 +1,11 @@
+.pokemones {
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.pokemon-card {
+    max-width: 500px;
+    margin: 0px;
+}
